@@ -1,0 +1,3 @@
+- need to disable villager vote privs during nighttime
+- check that all game states are implemented correctly (all mafia died, villagers less than half)
+- check state when no when is killed
